@@ -1,4 +1,3 @@
-
 class Element:
     def __init__(self, value, name):
         self.val =value
